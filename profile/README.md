@@ -2,7 +2,7 @@
 
 > Esto se ve bonito?? Espero que sí 👨‍🍼
 
-Este `README.md` se usará para poner enlaces a recursos externos, como el repositorio asociado, Figma y varios:
+Este `.mkv` se usará para poner enlaces a recursos externos, como el repositorio asociado, Figma y varios:
 
 ### Links:
 
@@ -10,7 +10,7 @@ Este `README.md` se usará para poner enlaces a recursos externos, como el repos
 * Figma - [https://www.figma.com/design/CCDaQqSTQ94T8xIh7jHNFg/UD2-KarPooling-RAFA-JORGE?node-id=0-1&t=aj6nNNLWJlzZznlT-1](https://www.figma.com/design/CCDaQqSTQ94T8xIh7jHNFg/UD2-KarPooling-RAFA-JORGE?node-id=0-1&t=aj6nNNLWJlzZznlT-1)
 * dbdiagram - [https://dbdiagram.io/d/KarPooling-6ad778cbf8963ca19c62656d](https://dbdiagram.io/d/KarPooling-6ad778cbf8963ca19c62656d)
 * Canva - [https://canva.link/cafgnvk6ffwf44z](https://canva.link/cafgnvk6ffwf44z)
-* ChatGPT - [https://chatgpt.com/g/g-p-6ae4b79989dc8191a1aa8f5724bfebdc-karpooling/project](https://chatgpt.com/g/g-p-6ae4b79989dc8191a1aa8f5724bfebdc-karpooling/project)
+* Gepete - [https://chatgpt.com/g/g-p-6ae4b79989dc8191a1aa8f5724bfebdc-karpooling/project](https://chatgpt.com/g/g-p-6ae4b79989dc8191a1aa8f5724bfebdc-karpooling/project)
 
 #
 #### Portapapeles 📋
@@ -25,9 +25,8 @@ https://www.figma.com/design/CCDaQqSTQ94T8xIh7jHNFg/UD2-KarPooling-RAFA-JORGE-H%
 ```
 
 ## APIs 🌐
-Hi soy Rafa, he estado investigando y buscando APIs que puedan servirnos para el desarrollo 👨‍🏭
+Holi soy Rafa, he estado investigando y buscando APIs que puedan servirnos para el desarrollo 👨‍🏭
 
 - [Openrouteservice](https://openrouteservice.org): Me gusta, opensource y sirve para generar rutas.
-
 
 
